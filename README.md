@@ -1,8 +1,10 @@
 # 490-People-Thai-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/70
+
 
 ## Description
 Thai speech data (guiding) is collected from 490 Thailand native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as in-car scene, smart home, speech assistant. 50 sentences for each speaker. The valid volumn is 15 hours. All texts are manual transcribed with high accuray.
+
+For more details, please refer to the link: https://bit.ly/3Sc1EO4
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 4 noise symbols, 5special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
