@@ -4,7 +4,8 @@
 ## Description
 Thai speech data (guiding) is collected from 490 Thailand native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as in-car scene, smart home, speech assistant. 50 sentences for each speaker. The valid volumn is 15 hours. All texts are manual transcribed with high accuray.
 
-For more details, please refer to the link: https://bit.ly/3Sc1EO4
+For more details, please refer to the link: https://www.nexdata.ai/datasets/70?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
